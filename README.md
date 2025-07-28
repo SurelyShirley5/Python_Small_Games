@@ -1,7 +1,3 @@
-# Python_Small_Games
+# Python_Small_Projects
 
-"These are the game projects I did in the process of learning Python on Udemy :>"
-
-# Features
-
-"They are just small games you can play through runnung the codes..."
+"These are the small projects I did in the process of learning Python on Udemy :>"
